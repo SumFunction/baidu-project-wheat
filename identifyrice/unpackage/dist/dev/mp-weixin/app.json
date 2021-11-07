@@ -1,0 +1,54 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/searchPage/searchPage",
+    "pages/myPage/myPage",
+    "pages/component/searchlist/searchlist",
+    "pages/component/login/login",
+    "pages/component/register/register",
+    "pages/component/member/member",
+    "pages/problem/problem",
+    "pages/component/discuss/discuss",
+    "pages/component/addproblem/addproblem",
+    "pages/component/middleuser/middleuser",
+    "pages/component/footercomment/footercomment",
+    "pages/component/smallimage/smallimage",
+    "pages/plantIdentify/plantIdentify",
+    "pages/questionDetails/questionDetails",
+    "pages/component/detailMoudle/detailMoudle",
+    "pages/component/headerDetail/headerDetail"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "慧眼识麦",
+    "navigationBarBackgroundColor": "#FFFFFF"
+  },
+  "tabBar": {
+    "position": "bottom",
+    "selectedColor": "#75C142",
+    "color": "#13B8CE",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "selectedIconPath": "static/home-active.png",
+        "iconPath": "static/home.png"
+      },
+      {
+        "pagePath": "pages/searchPage/searchPage",
+        "text": "搜索",
+        "selectedIconPath": "static/search-active.png",
+        "iconPath": "static/search.png"
+      },
+      {
+        "pagePath": "pages/myPage/myPage",
+        "text": "我的",
+        "selectedIconPath": "static/member-active.png",
+        "iconPath": "static/member.png"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

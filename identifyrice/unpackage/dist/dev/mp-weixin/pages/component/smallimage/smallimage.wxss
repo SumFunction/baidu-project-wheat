@@ -1,0 +1,18 @@
+
+.first{
+	width: 50rpx;
+	height: 80rpx;
+	/* background-color: pink; */
+}
+.first image{
+	width: 45rpx;
+	height: 45rpx;
+	float: left;
+}
+.first text{
+	font-size: 18rpx;
+	float: left;
+	letter-spacing: 1rpx;
+	margin-left: 6rpx;
+}
+

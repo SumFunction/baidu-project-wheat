@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "uni-popup": "/pages/component/uni-popup/uni-popup",
+    "uni-popup-message": "/pages/component/uni-popup-message/uni-popup-message",
+    "login": "/pages/component/login/login",
+    "member": "/pages/component/member/member"
+  }
+}

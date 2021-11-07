@@ -1,0 +1,43 @@
+
+.midlle.data-v-2f514334 {
+	/* display: flex; */
+	width: 750rpx;
+	height: 80rpx;
+	border-top: 1rpx solid #13B8CE;
+}
+.midlle .midlleC.data-v-2f514334 {
+	width: 30%;
+	/* margin-left: 20rpx; */
+	padding-left: 35%;
+	text-align: center;
+	font-weight: bold;
+	color: #13B8CE;
+	line-height: 80rpx;
+	/* margin-top: 100rpx; */
+}
+uni-forms-item input.data-v-2f514334 {
+	padding-top: 15rpx;
+}
+.myform button.data-v-2f514334 {
+	margin: 0 auto;
+	width: 20%;
+	margin-top: 8rpx;
+	font-size: 30rpx;
+	color: rgb(19, 184, 206);
+}
+.myimage image.data-v-2f514334 {
+	display: block;
+	margin: 0 auto;
+	margin-bottom: 80rpx;
+	margin-top: 150rpx;
+}
+.myform.data-v-2f514334 {
+
+	width: 90%;
+	margin: 0 auto;
+}
+uni-popup.data-v-2f514334 {
+	position: relative;
+	left: 30%;
+}
+

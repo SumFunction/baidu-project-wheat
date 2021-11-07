@@ -1,0 +1,32 @@
+
+.chat.data-v-265f51f6{
+	width: 95%;
+	margin: 0 auto;
+	height: 130rpx;
+	/* background-color: #4CD964; */
+	border-radius: 6rpx;
+	background-color: white;
+	margin-bottom: 5rpx;
+}
+.username.data-v-265f51f6, .timer.data-v-265f51f6{
+	font-size: 30rpx;
+	color: #13B8CE;
+	margin-top: 4rpx;
+}
+.username.data-v-265f51f6{
+	float: left;
+	margin-left: 6rpx;
+}
+.timer.data-v-265f51f6{
+	float: right;
+	margin-right: 6rpx;
+}
+.chatcontent.data-v-265f51f6{
+	float: left;
+	width: 90%;
+	height: 80rpx;
+	font-size: 33rpx;
+	color: #13B8CE;
+	margin-top: 10rpx;
+}
+

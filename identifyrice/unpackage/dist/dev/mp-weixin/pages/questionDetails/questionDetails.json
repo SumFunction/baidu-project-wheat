@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "detail-mouble": "/pages/component/detailMoudle/detailMoudle",
+    "header-detail": "/pages/component/headerDetail/headerDetail"
+  }
+}

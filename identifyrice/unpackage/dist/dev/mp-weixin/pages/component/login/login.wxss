@@ -1,0 +1,27 @@
+
+uni-forms-item input.data-v-47dc0408{
+	padding-top: 20rpx;
+}
+.myform button.data-v-47dc0408{
+	margin: 0 auto;
+	width: 50%;
+	margin-top: 8rpx;
+	color: rgb(19,184,206);
+}
+.myimage image.data-v-47dc0408{
+	display: block;
+	margin: 0 auto;
+	margin-bottom: 80rpx;
+	margin-top: 150rpx;
+}
+.myform.data-v-47dc0408{
+	
+	width: 90%;
+	margin: 0 auto;
+}
+uni-popup.data-v-47dc0408{
+	position: relative;
+	left: 30%;
+}
+
+

@@ -1,0 +1,3 @@
+server:
+  tomcat:
+    max-http-form-post-size: -1

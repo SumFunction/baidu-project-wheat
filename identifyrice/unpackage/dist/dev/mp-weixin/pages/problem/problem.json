@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "qizai9527-comment-list": "/uni_modules/qizai9527-commentList/components/qizai9527-commentList/qizai9527-commentList",
+    "discuss": "/pages/component/discuss/discuss",
+    "middleuser": "/pages/component/middleuser/middleuser",
+    "footercomment": "/pages/component/footercomment/footercomment"
+  }
+}

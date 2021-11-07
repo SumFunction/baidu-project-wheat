@@ -1,0 +1,29 @@
+
+.all.data-v-0629c0d8{
+	width: 95%;
+	/* margin: 0 auto; */
+	background-color: white;
+	color: rgb(99,96,99);
+	/* position: relative; */
+
+	/* margin-top: 40rpx; */
+	/* float: left; */
+	margin: 0rpx auto;
+	margin-top: 43rpx;
+	border: 1rpx solid white;
+}
+.title.data-v-0629c0d8{
+	width: 90%;
+	height: 110rpx;
+	line-height: 110rpx;
+	font-size: 40rpx;
+	font-weight: bold;
+	margin: 0 auto;
+}
+.article.data-v-0629c0d8{
+	width: 90%;
+	margin: 0 auto;
+	line-height: 42rpx;
+	padding-bottom: 35rpx;
+}
+

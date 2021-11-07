@@ -1,0 +1,31 @@
+#训练参数配置
+input_size: [ 224, 224] #输入图像大小
+class_dim: 7
+use_gpu: true #是否使用GPU
+train_path: "data/wheat/train_list.txt"
+val_path: "data/wheat/val_list.txt"
+train_batch_size: 8
+val_batch_size: 8
+num_epochs: 150
+lr: 0.01 #初始学习率 采用余弦退火
+min_lr: 0.0005 #最低学习率
+
+#数据增强部分
+#[0.47590372, 0.50925666, 0.36249062]
+mean: [0.36249062, 0.50925666, 0.47590372]
+#[0.24503766, 0.22525805, 0.25043842]
+std: [0.25043842, 0.22525805, 0.24503766]
+p: 0.5 #水平翻转的概率
+degree: 45 #随机旋转角度
+brightness: 0.2
+contrast: 0.1
+saturation: 0.1
+hue: 0.1
+
+#训练结果保存配置
+train_res_paramsPath: "trainResult/model.pdparams"
+train_res_pdoptPath: "trainResult/model.pdopt"
+train_other_path: "trainResult/otherResult.json"
+
+#推理模型保存位置
+info_save_path: "infoResult/SeResNeXt"

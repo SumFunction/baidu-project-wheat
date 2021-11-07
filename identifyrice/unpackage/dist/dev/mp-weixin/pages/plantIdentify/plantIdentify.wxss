@@ -1,0 +1,77 @@
+
+.all.data-v-031fcfb6 {
+	height: 1500rpx;
+}
+.top.data-v-031fcfb6 {
+	position: relative;
+	top: 30rpx;
+}
+.top .title.data-v-031fcfb6 {
+	width: 100%;
+	height: 100rpx;
+	/* background-color: #13B8CE; */
+	line-height: 100rpx;
+	text-align: center;
+	color: rgb(62, 70, 76);
+}
+.top .deleteImg.data-v-031fcfb6 {
+	position: absolute;
+	width: 35rpx;
+	height: 35rpx;
+	right: 20rpx;
+	top: 86rpx;
+}
+.top .middlePic.data-v-031fcfb6 {
+	width: 600rpx;
+	height: 600rpx;
+	/* background-color: #007AFF; */
+	border: 1rpx solid rgb(221, 221, 221);
+	background-image: url(data:image/png;base64,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);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	-moz-background-size: 100% 100%;
+	margin: 0 auto;
+}
+.top .middlePic image.data-v-031fcfb6 {
+	width: 100%;
+	height: 100%;
+}
+.foot button.data-v-031fcfb6 {
+	background-color: rgb(59, 190, 69);
+	color: white;
+	width: 350rpx;
+	height: 70rpx;
+	line-height: 70rpx;
+	border-radius: 30rpx;
+	font-size: 32rpx;
+	margin-top: 30rpx;
+}
+.footer.data-v-031fcfb6 {
+	position: relative;
+	background-color: white;
+	height: 210rpx;
+	top: 50rpx;
+}
+.footer .contain view.data-v-031fcfb6 {
+	color: rgb(40, 44, 52);
+	margin-top: 17rpx;
+	margin-left: 10rpx;
+	float: left;
+}
+.load.data-v-031fcfb6 {
+	position: relative;
+	top: -820rpx;
+	left: 230rpx;
+	width: 250rpx;
+	height: 250rpx;
+	background-color:
+		rgba(0, 0, 0);
+	opacity: 0.6;
+	border-radius: 10rpx;
+}
+.load .iconImg.data-v-031fcfb6 {}
+.load .title.data-v-031fcfb6 {
+	margin-left: 68rpx;
+	margin-top: 25rpx;
+}
+

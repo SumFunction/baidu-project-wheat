@@ -1,0 +1,37 @@
+
+.onemiddle.data-v-c9e9a418{
+	width: 750rpx;
+	height: 100rpx;
+	/* background-color: #4CD964; */
+}
+.onemiddle image.data-v-c9e9a418{
+	width: 70rpx;
+	height: 70rpx;
+	float: left;
+	margin-left: 10rpx;
+	margin-top: 3rpx;
+}
+.onemiddle .nametime .name.data-v-c9e9a418{
+	font-size: 28rpx;
+	margin-top: 8rpx;
+}
+.onemiddle .nametime .time.data-v-c9e9a418{
+	font-size: 18rpx;
+	margin-top: 3rpx;
+	color: #555555;
+}
+.onemiddle .guanzhu button.data-v-c9e9a418{
+	width: 120rpx;
+	height: 50rpx;
+	font-size: 28rpx;
+	line-height: 50rpx;
+	letter-spacing: 2rpx;
+	/* background-color: white; */
+	/* border-color: rgb(221,221,221); */
+	border-radius: 20rpx;
+	margin-top: 15rpx;
+	margin-right: 15rpx;
+	float: right;
+	overflow: hidden;
+}
+

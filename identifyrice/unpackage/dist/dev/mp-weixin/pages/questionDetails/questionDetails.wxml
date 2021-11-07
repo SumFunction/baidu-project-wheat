@@ -1,0 +1,1 @@
+<view class="mainbody"><header-detail vue-id="317d9ff4-1" headerData="{{headerData}}" acc="{{acc}}" bind:__l="__l"></header-detail><block wx:for="{{detailData}}" wx:for-item="item" wx:for-index="__i0__" wx:key="title"><block wx:if="{{item.content!=null}}"><detail-mouble vue-id="{{'317d9ff4-2-'+__i0__}}" item="{{item}}" bind:__l="__l"></detail-mouble></block></block></view>

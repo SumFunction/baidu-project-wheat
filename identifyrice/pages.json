@@ -1,0 +1,125 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index"
+			// "style": {
+			// 	"navigationBarTitleText": "uni-app"
+			// }
+		},
+		{
+			"path":"pages/searchPage/searchPage",
+			"style":{
+			
+			}
+		},
+		{
+			"path":"pages/myPage/myPage",
+			"style":{
+			}
+		}
+	    ,{
+            "path" : "pages/component/searchlist/searchlist",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/component/login/login",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/component/register/register",
+            "style" : {
+			}
+        }
+        ,{
+            "path" : "pages/component/member/member",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/problem/problem",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/component/discuss/discuss",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/component/addproblem/addproblem",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/component/middleuser/middleuser",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/component/footercomment/footercomment",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/component/smallimage/smallimage",
+            "style" : {}
+        }
+        
+        ,{
+            "path" : "pages/plantIdentify/plantIdentify",
+            "style" :                                                                                    
+            {
+            }
+            
+        }
+        
+        ,{
+            "path" : "pages/questionDetails/questionDetails",
+            "style" :                                                                                    
+            {
+            }
+            
+        }
+        ,{
+            "path" : "pages/component/detailMoudle/detailMoudle",
+            "style" :                                                                                    
+            {
+            }
+            
+        }
+        ,{
+            "path" : "pages/component/headerDetail/headerDetail",
+            "style" :                                                                                    
+            {
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "慧眼识麦",
+		"navigationBarBackgroundColor": "#FFFFFF"
+		
+		
+	},
+	"tabBar":{
+		"position":"bottom",
+		"selectedColor":"#75C142",
+		"color":"#13B8CE",
+		"list":[
+			{
+				"pagePath":"pages/index/index",
+				"text":"首页",
+				"selectedIconPath":"static/home-active.png",
+				"iconPath":"static/home.png"
+			},
+			{
+				"pagePath":"pages/searchPage/searchPage",
+				"text":"搜索",
+				"selectedIconPath":"static/search-active.png",
+				"iconPath":"static/search.png"
+			},
+			{
+				"pagePath":"pages/myPage/myPage",
+				"text":"我的",
+				"selectedIconPath":"static/member-active.png",
+				"iconPath":"static/member.png"
+			}
+		]
+	}
+
+}
